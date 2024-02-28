@@ -3959,9 +3959,9 @@ p {
 .status {
   background-image: url(../images/logo.png);
   animation: fade 5s;
- -webkit-animation: fade 5s;
- -moz-animation: fade 5s;
- -o-animation: fade 5s;
+ -webkit-animation: fade 3s;
+ -moz-animation: fade 3s;
+ -o-animation: fade 3s;
 }
 .status,
 .status-message {   
